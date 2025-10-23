@@ -15,7 +15,7 @@
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caothemanh1706&layout=compact&theme=tokyonight&langs_count=6&card_width=500" alt="Top Langs" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caothemanh1706&layout=compact&theme=tokyonight&langs_count=6&card_width=700" alt="Top Languages" width="80%"/>
 </p>
 
 ---
