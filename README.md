@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mạnh Cao Thế</h1>
-<h3 align="center">🎧 Student at UET | 💻 Love coding and making small games 🎮</h3>
+<h1 align="center">Hi 👋, I'm Cao Thế Mạnh</h1>
+<h3 align="center">🎧 Student at UET |  💻 Computer Science Major </h3>
 
 ---
 
@@ -31,14 +31,14 @@ Assignments and exercises from Advanced Programming course.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Codeblocks_logo.png" alt="Code::Blocks" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" alt="Code::Blocks" width="45" height="45"/>
 </p>
 
 ---
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caothemanh1706&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caothemanh1706&layout=compact&theme=tokyonight&langs_count=6&card_width=500" alt="Top Langs" width="60%"/>
 </p>
 
 ---
