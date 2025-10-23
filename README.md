@@ -1,28 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cao Thế Mạnh</h1>
 <h3 align="center">🎧 Student at UET |  💻 Computer Science Major </h3>
 
----
-
-### 🧠 About Me
-🎧 I’m just a student at **UET**.  
-💻 I enjoy learning programming and making small projects in **C++**, **Java**, and **SDL2**.  
-🚀 I love exploring new technologies and improving my skills every day.  
-
----
-
-### 🌟 Featured Projects
-
-#### 🎮 [Game (C++)](https://github.com/caothemanh1706/game)
-A small SDL2-based project focusing on rendering and game mechanics.  
-🧩 *Technologies:* C++, SDL2  
-✨ *Highlights:* Custom text rendering, smooth controls, and score tracking.  
-
-#### 💡 [AdvProg_AY2425](https://github.com/caothemanh1706/AdvProg_AY2425)
-Assignments and exercises from Advanced Programming course.  
-📚 *Focus:* Object-oriented design, efficiency, and clean code practices.  
-
----
-
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
