@@ -30,14 +30,15 @@ Assignments and exercises from Advanced Programming course.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" alt="SDL2" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Codeblocks_logo.png" alt="Code::Blocks" width="45" height="45"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caothemanh1706&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caothemanh1706&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caothemanh1706&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
