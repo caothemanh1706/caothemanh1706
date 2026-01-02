@@ -18,4 +18,4 @@
 
 ### 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caothemanh1706&layout=compact&theme=tokyonight&langs_count=6)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caothemanh1706&layout=compact&theme=tokyonight)
